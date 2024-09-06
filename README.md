@@ -1,6 +1,6 @@
    Hello, I'm Suvakanta Rout, a passionate about programming for problem solving. <br>I'm currently pursuing my BTech degree at CV Raman Global University, where I'm honing my skills in software development. <br>When I'm not coding, you can find me in the kitchen, whipping up a storm and exploring new recipes.<br>I love how programming and cooking share a common thread - both require creativity, attention to detail.<br>I'm excited to combine my technical skills with my passion to make a meaningful impact in to the society.
 
-🖇 SOCIALS:
+🌐 SOCIALS:
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@suvakant23) 
 
