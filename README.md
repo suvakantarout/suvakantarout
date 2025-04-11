@@ -1,4 +1,7 @@
-   Hello, I'm Suvakanta Rout, a passionate about programming for problem solving. <br>I'm currently pursuing my BTech degree at CV Raman Global University, where I'm honing my skills in software development. <br>When I'm not coding, you can find me in the kitchen, whipping up a storm and exploring new recipes.<br>I love how programming and cooking share a common thread - both require creativity, attention to detail.<br>I'm excited to combine my technical skills with my passion to make a meaningful impact in to the society.
+   Hello, I am Suvakanta Rout, a frontend developer and a 3rd-year B. Tech student at CV Raman Global University,
+ Bhubaneswar, in the branch Computer Science and Engineering. I am passionate about design and web devel
+opment and enjoy creating user friendly and creative digital projects. I am always eager to learn new things and
+ aim to make a significant impact in the tech world.
 
 🌐 SOCIALS:
 
